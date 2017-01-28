@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bg.svg"
+   inkscape:export-filename="/home/meta/cprojects/allas/sharegit/Natron/SubtitleGenerator/docs/bg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4286"
+       x="-0.024661145"
+       width="1.0493223"
+       y="-0.22244823"
+       height="1.4448965">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.941579"
+         id="feGaussianBlur4288" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5dc6ff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43987014"
+     inkscape:cx="845.27379"
+     inkscape:cy="220.87701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1916"
+     inkscape:window-height="1060"
+     inkscape:window-x="1360"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637839)">
+    <path
+       style="opacity:0.13200001;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;filter:url(#filter4286)"
+       d="m 300.36439,583.75821 c 0,0 256.34507,-42.96142 615.88203,-33.75824 420.47308,10.76297 643.58058,33.75824 643.58058,33.75824 l 0,104.57631 c 0,0 -219.6847,-34.99096 -638.70926,-33.75824 -385.24359,1.13333 -620.75335,33.75824 -620.75335,33.75824 z"
+       id="rect3363"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscc"
+       transform="matrix(-1.0112792,0,0,1.1900908,1898.313,-177.12929)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.25848737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(11.605983,0,0,11.605983,-4218.0705,-3739.2553)"><flowRegion
+         id="flowRegion3357"><rect
+           id="rect3359"
+           width="127.02592"
+           height="42.343582"
+           x="402.39148"
+           y="359.33276"
+           style="stroke:#ffffff;stroke-width:0.25848737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara3361"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'API PHONÉTIQUE';-inkscape-font-specification:'API PHONÉTIQUE';stroke:#ffffff;stroke-width:0.25848737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">http://kopiascsaba.hu</flowPara></flowRoot>    <flowRoot
+       transform="matrix(11.605983,0,0,11.605983,-4218.0705,-3739.2553)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00861625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot4206"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4208"><rect
+           y="359.33276"
+           x="402.39148"
+           height="42.343582"
+           width="127.02592"
+           id="rect4210"
+           style="fill:#000000;stroke-width:0.00861625;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'API PHONÉTIQUE';-inkscape-font-specification:'API PHONÉTIQUE';fill:#000000;stroke-width:0.00861625;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowPara4212">http://kopiascsaba.hu</flowPara></flowRoot>  </g>
+</svg>
